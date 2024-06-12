@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1341757.adobeaemcloud.com//bin/franklin.delivery/DuggalRajeev/xwalkbootcamp/main"
+    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/DuggalRajeev/xwalkbootcamp/main"
     type: "markup"
     suffix: ".html"
