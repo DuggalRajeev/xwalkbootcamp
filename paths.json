@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/rajeev-xwalkbootcamp/:/",
-    "/content/rajeev-xwalkbootcamp/configuration:/.helix/config.json"
+    "/content/rajeevd-xwalk/:/",
+    "/content/rajeevd-xwalk/configuration:/.helix/config.json"
   ]
 }
