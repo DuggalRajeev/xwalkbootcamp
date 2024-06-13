@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/rajeevd-xwalk/:/",
-    "/content/rajeevd-xwalk/configuration:/.helix/config.json"
+    "/content/rajeevd-xwalk/configuration:/.helix/config.json",
+    "/content/rajeevd-xwalk/placeholders:/placeholders.json"
   ]
 }
